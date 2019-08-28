@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Pokecard from "./Pokecard";
 import "./Pokedex.css";
+// import Refresher from "./Refresher";
 
 class Pokedex extends Component {
   render() {
